@@ -3,6 +3,26 @@ spring:
     name: ai-agent
   profiles:
     active: local
+
+
+
+  ai:
+#    mcp:
+#      client:
+#        request-timeout: 30s
+#
+#
+##        stdio:
+##          servers-configuration: classpath:mcp-servers.json
+#        sse:
+#          connections:
+#            server1:
+#              url: http://localhost:8127
+
+
+
+
+
 server:
   port: 8123
   servlet:
@@ -29,3 +49,7 @@ knife4j:
 #logging:
 #  level:
 #    org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor: debug
+
+
+
+
