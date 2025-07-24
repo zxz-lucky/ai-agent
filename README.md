@@ -6,6 +6,8 @@
 
 项目中，我们将开发一个 AI 恋爱大师应用、一个拥有自主规划能力的超级智能体，以及一系列工具和 MCP 服务。
 
+<img width="2523" height="1393" alt="image" src="https://github.com/user-attachments/assets/a05d6d66-0f7e-45ad-99d3-c68b5ab26176" />
+
 
 
 **具体需求如下：**
